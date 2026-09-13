@@ -37,16 +37,4 @@
 <p align="center"><a href="https://github.com/XionExz"><img src="https://streak-stats.demolab.com/?user=XionExz&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/XionExz"><img src="https://github-readme-stats-tan-two-27.vercel.app/api/top-langs/?username=XionExz&theme=chartreuse-dark&layout=compact"></a></p> 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/XionExz/xionExz/pacman-output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/XionExz/xionExz/pacman-output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/XionExz/xionExz/pacman-output/pacman-contribution-graph.svg"
-  />
-</picture>
+
