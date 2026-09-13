@@ -36,3 +36,11 @@
 <p align="center"><a href="https://github.com/DyvillexzDev"><img src="https://github-readme-stats-tan-two-27.vercel.app/api?username=XionExz&show_icons=true&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/XionExz"><img src="https://streak-stats.demolab.com/?user=XionExz&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/XionExz"><img src="https://github-readme-stats-tan-two-27.vercel.app/api/top-langs/?username=XionExz&theme=chartreuse-dark&layout=compact"></a></p> 
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xionExz/xionExz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xionExz/xionExz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xionExz/xionExz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
